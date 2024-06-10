@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Site de formation la minute de code</h1>
 
-<p align="center"><img src="https://socialify.git.ci/thomaslekieffre/Challenge spikes SaaS/image?font=Source%20Code%20Pro&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Signal&amp;theme=Dark" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/thomaslekieffre/Challenge-Spikes-SaaS/image?language=1&name=1&owner=1&theme=Dark" alt="project-image"></p>
 
 <p id="description">Ce site a été réalisée dans le cadre du challenge spikes  : "Créer un SaaS"</p>
 
