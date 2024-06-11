@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Site de formation la minute de code</h1>
+<h1 align="center" id="title">Site du premier challenge spikes</h1>
 
 <p align="center"><img src="https://socialify.git.ci/thomaslekieffre/Challenge-Spikes-SaaS/image?language=1&name=1&owner=1&theme=Dark" alt="project-image"></p>
 
